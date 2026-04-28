@@ -8,8 +8,8 @@
 - Git & Github
 
 ## 📫 How to Reach Me
-[LinkedIn](https://www.linkedin.com/in/emir-çalışkan-4e38283454)
-[e-posta adresim](mailto:caliskanemir206@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/emir-çalışkan-4e38283454)
+- [e-posta adresim](mailto:caliskanemir206@gmail.com) , caliskanemir206@gmail.com
 
 
 <!--
